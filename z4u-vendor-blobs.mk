@@ -23,6 +23,7 @@ PRODUCT_COPY_FILES += \
   vendor/htc/z4u/proprietary/bin/netsharing:system/bin/netsharing \
   vendor/htc/z4u/proprietary/bin/rmt_storage:system/bin/rmt_storage \
   vendor/htc/z4u/proprietary/bin/thermald:system/bin/thermald \
+	vendor/htc/z4u/proprietary/bin/htc_ebdlogd:system/bin/htc_ebdlogd \
   vendor/htc/z4u/proprietary/lib/libhtc_acoustic.so:system/lib/libhtc_acoustic.so \
   vendor/htc/z4u/proprietary/lib/hw/camera.msm7627a.so:system/lib/hw/camera.msm7627a.so \
   vendor/htc/z4u/proprietary/lib/libcameraface.so:system/lib/libcameraface.so \
